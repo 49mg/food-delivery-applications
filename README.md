@@ -1,12 +1,12 @@
 H!
 
-This is simple UI and UX design i found it on //Figma.com i use my knowledge to make it an mobile applications
+This is simple UI and UX design i found on //Figma.com, i use my knowledge to make it an mobile application
 
 
 ![Desktop - 1](https://user-images.githubusercontent.com/95950048/210087376-ccc3cbef-dc67-4c7c-aba4-fbfb4bdc2336.png)
 
 
-I write this code without any features like state management or else and i use a lote of comment i know it's not ture but i wanna programmers and else can understand my code
+I write this code without any features like state management or else and i use a lot of comment i know it's not true but i wanna alot of people can understand my code not just programmers
 
 So what i use:
 
