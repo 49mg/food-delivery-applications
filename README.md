@@ -1,16 +1,21 @@
-# insta_projects
+H!
 
-A new Flutter project.
+This is simple UI and UX design i found it on //Figma.com i use my knowledge to make it an mobile applications
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Desktop - 1](https://user-images.githubusercontent.com/95950048/210087376-ccc3cbef-dc67-4c7c-aba4-fbfb4bdc2336.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+I write this code without any features like state management or else and i use a lote of comment i know it's not ture but i wanna programmers and else can understand my code
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+So what i use:
+
+1 - simple flutter code
+
+2 - svg picture packages
+
+3 - Media Query to make my applications resposive
+
+4 - i use to rutations just  Navigator push and pop 
+
+Text me if you have any advice will help me or anythings you wanna say <3
