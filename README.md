@@ -1,20 +1,16 @@
-# food-delivery-applications
-H!
+# insta_projects
 
-This is simple UI and UX design i found it on //Figma.com i use my knowledge to make it an mobile applications
+A new Flutter project.
 
-![Desktop - 1](https://user-images.githubusercontent.com/95950048/210086567-8256c488-9a23-45fb-bd25-e952189e64a0.png)
+## Getting Started
 
-I write this code without any features like state management or else and i use a lote of comment i know it's not ture but i wanna programmers and others people can read and understand my code
+This project is a starting point for a Flutter application.
 
-So what i use:
+A few resources to get you started if this is your first Flutter project:
 
-1 - simple flutter code
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-2 - svg picture packages
-
-3 - Media Query to make my applications resposive
-
-4 - i use to rutations just  Navigator push and pop 
-
-Text me if you have any advice will help me or anythings you wanna say :)
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
