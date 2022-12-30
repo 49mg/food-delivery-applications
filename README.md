@@ -1,21 +1,21 @@
 H!
 
-This is simple UI and UX design i found on //Figma.com, i use my knowledge to make it an mobile application
+This is simple UI and UX design I found it on Figma.com
 
+I use my knowledge to make it a mobile applications
 
 ![Desktop - 1](https://user-images.githubusercontent.com/95950048/210087376-ccc3cbef-dc67-4c7c-aba4-fbfb4bdc2336.png)
 
-
-I write this code without any features like state management or else and i use a lot of comment i know it's not true but i wanna alot of people can understand my code not just programmers
+I write this code without any features like state management or else and I use a lot of comment I know it's not ture but i wanna programmers and everybody can understand my code
 
 So what i use:
 
-1 - simple flutter code
+- simple flutter code
 
-2 - svg picture packages
+- svg picture packages
 
-3 - Media Query to make my applications resposive
+- Media Query to make my applications responsive
 
-4 - i use to rutations just  Navigator push and pop 
+- i use to rotations just  Navigator push and pop
 
-Text me if you have any advice will help me or anythings you wanna say :)
+Text me if you have any advice will help me or anything's you want to say ;)
