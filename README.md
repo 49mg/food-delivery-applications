@@ -18,4 +18,4 @@ So what i use:
 
 4 - i use to rutations just  Navigator push and pop 
 
-Text me if you have any advice will help me or anythings you wanna say <3
+Text me if you have any advice will help me or anythings you wanna say :)
